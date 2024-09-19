@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="springboot-rabbitmq-microservices">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/stock-service.zip!/" />
+      <root url="jar://$PROJECT_DIR$/order-service (1).zip!/" />
+      <root url="jar://$PROJECT_DIR$/email-service.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
